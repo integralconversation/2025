@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://integral-conversation.com/sitemap.xml
